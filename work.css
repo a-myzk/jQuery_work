@@ -1,0 +1,12 @@
+header h1 {
+  background-color: cadetblue;
+}
+.content {
+  background-color: burlywood;
+  padding: 10px 100px;
+  text-align: center;
+}
+
+.contact {
+  text-align: center;
+}
